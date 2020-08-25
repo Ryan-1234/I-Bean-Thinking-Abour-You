@@ -1,2 +1,2 @@
-# I-Bean-Thinking-Abour-You
+# I-Bean-Thinking-About-You
 Coffee eCommerce Website
